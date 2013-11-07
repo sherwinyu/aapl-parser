@@ -1,0 +1,5 @@
+source 'https://rubygems.org'
+gem 'nokogiri'
+gem 'pry'
+gem 'pry-debugger'
+gem 'awesome_print'
